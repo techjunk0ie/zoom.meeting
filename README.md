@@ -1,6 +1,6 @@
 # zoom meeting
 
-[![zoom meeting](gett-detail.png)](https://computersolve.com/how-to-join-zoom-meeting/)
+[![zoom meeting](gett-detail.png)](https://icncomputer.com/how-to-join-zoom-meeting/)
 
 Zoom Meetings are the foundation of Zoom, and the term refers to video conferencing meetings using the platform that allow remote and co-located meeting attendees to communication frictionlessly. Since you you don't need to have a Zoom account to attend a Zoom meetings, you can even meet with clients or conduct interviews with remote candidates virtually.
 
