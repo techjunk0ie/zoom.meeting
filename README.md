@@ -16,6 +16,29 @@ A "Zoom Meeting" simply refers to a meeting that's hosted using Zoom, and attend
 * Record and share meetings
 * Integration with email/calendar/browser applications
 
+## zoom meeting join
+
+* Open the Zoom desktop client.
+* Join a meeting using one of these methods: If you want to join a meeting without signing in, click Join a Meeting.
+* Enter the meeting ID and your display name. 
+* Select if you would like to connect audio and/or video.
+* Click Join.
+
+## Zoom login
+
+Go to join.zoom.us. Enter your meeting ID provided by the host/organizer. Click Join. If this is your first time joining Google Chrome, you will be asked to open the Zoom desktop client to join the meeting. Zoom Login uses the mySMCCD portal to authenticate your account. Hence, logging into Zoom is the same as logging into the mySMCCD portal with the same credentials.
+
+1: After logging in, select the zoom icon in the mySMCCD portal.
+2: Click on the Sign In button directly from the SMCCD zoom page.
+3: Sign in with the Zoom app SSO.
+  1. Click on Sign in with SSO on the Zoom application startup screen
+  2. Enter smccd in domain field and click on continue button
+  3. The default Internet browser will open to sign in to the mySMCCD login portal. Follow the how to log in to mySMCCD login portal instructions.
+  4. Once you have successfully signed in, you will see "Open Zoom Meetings?" Withdraws a browser notification pop up. Click on the Open Zoom Meeting button to finish      the login process on your device.
+  5. Once you click on Open Zoom Meetings, the Zoom application will follow the home screen.
+
+
+
 ## How to Get Started Using Zoom
 
 1. Choose the right plan for your team.
